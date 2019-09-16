@@ -1,7 +1,4 @@
 import cv2
-import numpy as np
-import os
-
 
 def canny(image):
     # create image variable
@@ -14,6 +11,6 @@ def canny(image):
 
 
 # Show image
-cv2.imshow('image', canny('Advanced-Vehicle-Technology/talos-nd01 copy/1568087426_1388_-9.600000000000001_12.28v_30.0c_frontlower.jpg'))
+cv2.imshow('image', canny('avt-lane-detection/talos-nd01 copy/1568087426_1388_-9.600000000000001_12.28v_30.0c_frontlower.jpg'))
 cv2.waitKey(0)
 cv2.destroyAllWindows()
