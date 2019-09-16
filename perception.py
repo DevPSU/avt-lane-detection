@@ -1,7 +1,4 @@
 import cv2
-import numpy as np
-import os
-
 
 def canny(image):
     # create image variable
