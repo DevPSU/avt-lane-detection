@@ -138,8 +138,8 @@ lane_with_lines_image = cv2.addWeighted(lane_with_lines_image, 0.8, midpoint_ima
 lane_with_lines_image = cv2.addWeighted(lane_with_lines_image, 0.8, steering_wheel_angle_image, 1, 1)
 
 # plt helps show the image in a graph
-plt.imshow(lane_image)
-plt.show()
+#plt.imshow(lane_image)
+#plt.show()
 
 # display image
 cv2.imshow("image", lane_with_lines_image)
