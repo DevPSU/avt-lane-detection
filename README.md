@@ -1,3 +1,3 @@
 # avt-lane-detection
 Fall 2019 DevPSU startup - AVT - Lane detection project
-<img scr="Capture.PNG" width="800", height = "800">
+![Lane Detection](https://github.com/DevPSU/avt-lane-detection/blob/Li_Zhu/Capture.PNG)
