@@ -16,7 +16,7 @@ def region_of_interest(image):
     HEIGHT = image.shape[0]-100
     # make a roi polygon
     polygons = np.array([
-    [(400, HEIGHT),(1000,HEIGHT),(800, 450)]
+    [(400, HEIGHT),(1000,HEIGHT),(200, 250)]
     ])
     mask = np.zeros_like(image)
     #fill mask with roi polygon
