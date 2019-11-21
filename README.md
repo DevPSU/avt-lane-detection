@@ -44,7 +44,7 @@ python vid_avt_lane_detection.py
 or 
 
 ```bash
-python vid_avt_lane_detection2.py
+python vid_avt_lane_detection_2.py
 ```
 
 ## Results
