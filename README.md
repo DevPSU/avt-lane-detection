@@ -49,7 +49,7 @@ python vid_avt_lane_detection2.py
 
 ## Results
 ### Image Result
-![Video ROI](https://github.com/DevPSU/avt-lane-detection/blob/Josiel/Result_Image.PNG)
+![Video ROI](https://github.com/DevPSU/avt-lane-detection/blob/Josiel/Result_Image.png)
 
 
 ## Contributions
