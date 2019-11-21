@@ -122,6 +122,7 @@ lines = cv2.HoughLinesP(canny_image,2,np.pi/180, 20, np.array([]), minLineLength
 
 # find an average line to use for the left and right lane 
 averaged_lines = average_slope_intercept(lane_image, lines)
+
 # line_image contains only the lane lines drawn
 line_image = display_lines(lane_image, averaged_lines)
 midpoint_image = midpoint(lane_image, averaged_lines)[0]
