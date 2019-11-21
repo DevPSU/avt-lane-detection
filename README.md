@@ -1,7 +1,7 @@
-#AVT-Lane-Detection
+# AVT-Lane-Detection
 Fall 2019 DevPSU startup - Advanced Vehicle Technology - Lane detection project using Python 3. 
 
-##Required packages
+## Required packages
 ```bash
 OpenCV
 pip install opencv-python
@@ -14,7 +14,7 @@ Matplotlib
 pip install matplotlib
 ```
 
-##Run
+## Run
 Activate your virtual environment with the package dependencies list above. 
 1. cd into your python environemnt(s)
 2. activate your environment
@@ -47,12 +47,12 @@ or
 python vid_avt_lane_detection2.py
 ```
 
-##Results
-###Image Result
+## Results
+### Image Result
 ![Video ROI](https://github.com/DevPSU/avt-lane-detection/blob/Result_Image.png)
 
 
-##Contributions
+## Contributions
 Project Manager: 
 * Harsha Kanumilli
 
@@ -62,5 +62,5 @@ Software Engineers:
 * Nick Fink
 * Nishay Pagarani
 
-##License
+## License
 [MIT]
