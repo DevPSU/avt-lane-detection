@@ -1,5 +1,5 @@
 # AVT-Lane-Detection
-Fall 2019 DevPSU startup - Advanced Vehicle Technology - Lane detection project using Python 3. 
+Fall 2019 DevPSU startup - Advanced Vehicle Technology - Lane detection project using the OpenCV library with Python 3. 
 
 ## Required packages
 ```bash
